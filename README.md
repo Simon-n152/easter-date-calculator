@@ -38,6 +38,12 @@ Here:
 
 ---
 
+## 🚀 Future Plans
+
+- [ ] Add function to find all years when **Catholic and Orthodox Easter coincide**
+- [ ] Add feature to check if a given **birthday** ever coincides with Easter
+
+
 ## License
 
 MIT License. Feel free to use or modify.
